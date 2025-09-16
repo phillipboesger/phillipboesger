@@ -39,5 +39,6 @@
 |------------|--------------------------------------------------------------------------------|
 | LinkedIn   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillip-boesger-90691215a/) |
 | Website    | [![Website](https://img.shields.io/badge/B%C3%B6sger_Digital-0052CC?style=for-the-badge&logo=web&logoColor=white)](https://consulting.boesger.com/) |
+| Linktree   | [![Linktree](https://img.shields.io/badge/Linktree-39e09b?style=for-the-badge&logo=linktree&logoColor=white)](https://boesger.com/) |
 
 ---
