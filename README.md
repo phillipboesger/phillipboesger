@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Using closest available icons for representation -->
-    <img src="https://skillicons.dev/icons?i=java,git,github,html,ai&theme=light" alt="Skill Icons"/>
+    <img src="https://skillicons.dev/icons?i=java,js,css,apple,docker,eclipse,github,githubactions,jenkins,linux,maven,postman,visualstudio,html,ai&theme=light" alt="Skill Icons"/>
   </a>
 </p>
 
