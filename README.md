@@ -17,7 +17,7 @@
 - **Freelance Consultant** — Polarion, Full-Stack & AI solutions — *Self-employed since Jan 2026*  
 - **Senior Software Developer / Technical Lead** — avasis (Polarion & ALM consultancy, Nov 2020 – Dec 2025)
 
-[Visit my site for more details ›](https://consulting.boesger.com/)  
+[Visit my site for more details ›](https://digital.boesger.com/)  
 
 ---
 
@@ -38,7 +38,7 @@
 | Platform   | Badge & Link                                                                 |
 |------------|--------------------------------------------------------------------------------|
 | LinkedIn   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillip-boesger-90691215a/) |
-| Website    | [![Website](https://img.shields.io/badge/B%C3%B6sger_Digital-0052CC?style=for-the-badge&logo=web&logoColor=white)](https://consulting.boesger.com/) |
+| Website    | [![Website](https://img.shields.io/badge/B%C3%B6sger_Digital-0052CC?style=for-the-badge&logo=web&logoColor=white)](https://digital.boesger.com/) |
 | Linktree   | [![Linktree](https://img.shields.io/badge/Linktree-39e09b?style=for-the-badge&logo=linktree&logoColor=white)](https://boesger.com/) |
 
 ---
