@@ -11,14 +11,6 @@
 </p>
 
 <p align="center">
-  <img alt="Claude Code" src="https://img.shields.io/badge/AI-Claude_Code-ffc266?style=for-the-badge&labelColor=12385f&logo=claude&logoColor=ffc266"/>
-  <img alt="GitHub Copilot" src="https://img.shields.io/badge/AI-GitHub_Copilot-6aa9ff?style=for-the-badge&labelColor=12385f&logo=githubcopilot&logoColor=6aa9ff"/>
-  <img alt="OpenAI Codex" src="https://img.shields.io/badge/AI-OpenAI_Codex-bdeeff?style=for-the-badge&labelColor=12385f"/>
-  <img alt="MCP" src="https://img.shields.io/badge/Agents-MCP-62d6ff?style=for-the-badge&labelColor=12385f&logo=modelcontextprotocol&logoColor=62d6ff"/>
-  <img alt="n8n" src="https://img.shields.io/badge/Automation-n8n-2bb3ee?style=for-the-badge&labelColor=12385f&logo=n8n&logoColor=2bb3ee"/>
-</p>
-
-<p align="center">
   Freelance since January 2026. 8 years of Polarion, from Siemens enterprise to startup, where requirements management meets technical execution.
 </p>
 
