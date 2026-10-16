@@ -69,6 +69,7 @@
 </table>
 
 <p align="center">
+  <img src="assets/ai-stack.svg" height="48" alt="Claude, GitHub Copilot, OpenAI Codex, MCP, n8n"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java,ts,nodejs,python,swift,docker,githubactions,vscode&theme=dark" alt="Java, TypeScript, Node.js, Python, Swift, Docker, GitHub Actions, VS Code"/>
 </p>
 
